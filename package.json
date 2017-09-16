@@ -1,0 +1,18 @@
+{
+ "author": "Andy Dennis",
+ "bugs": {
+  "url": "https://github.com/scruffymongrel/deep-proxy/issues"
+ },
+ "description": "Proxy server for passing incoming requests to the Deep target.",
+ "license": "MIT",
+ "main": "index.js",
+ "name": "deep-proxy",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/scruffymongrel/deep-proxy"
+ },
+ "version": "1.0.0",
+ "dependencies": {
+  "deep-passcode": "^1.0.0"
+ }
+}
