@@ -1,3 +1,3 @@
-# deep-proxy
+# deep-link
 
-Proxy server for passing incoming requests to the Deep target.
+Link incoming requests to the Deep target.
