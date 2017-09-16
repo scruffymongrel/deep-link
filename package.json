@@ -6,7 +6,7 @@
  "description": "Link incoming requests to the Deep target.",
  "license": "MIT",
  "main": "index.js",
- "name": "deep-proxy",
+ "name": "deep-link",
  "repository": {
   "type": "git",
   "url": "https://github.com/scruffymongrel/deep-link"
